@@ -38,15 +38,16 @@
 
 <div align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me<br>
+</div>
 
 
-
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=Full+Stack+Developer;React+Native+Specialist;UI%2FUX+Design+Enthusiast;AI+Integration+Expert" alt="Typing SVG" />
 </div>
 
 <br>
 <div align="center">
-🔭 I’m currently working on **Chatbot**
+🔭 I’m currently working on "Chatbot"
 
  🌱 I’m currently learning **Machine Learning, React Native, and backend development with Node.js**
 
@@ -102,20 +103,7 @@
 
 
 
-<!-- 🐍 GitHub Contribution Snake Animation -->
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashanchinthana/ashanchinthana/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashanchinthana/ashanchinthana/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ashanchinthana/ashanchinthana/output/github-snake.svg" />
-  </picture>
-</div>
-
-<!-- 🌊 Optional Animated GIF -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ashanchinthana/ashanchinthana/output/ocean.gif" alt="Snake animation in ocean theme" />
-</div>
 
 
 
