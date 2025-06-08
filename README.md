@@ -37,7 +37,7 @@
 </p>
 
 <div align="center">
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**<br>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me<br>
 
 
 
@@ -46,15 +46,15 @@
 
 <br>
 <div align="center">
-- 🔭 I’m currently working on **Chatbot**
+🔭 I’m currently working on **Chatbot**
 
-- 🌱 I’m currently learning **Machine Learning, React Native, and backend development with Node.js**
+ 🌱 I’m currently learning **Machine Learning, React Native, and backend development with Node.js**
 
-- 💡 Exploring **TensorFlow, LLMs,AI, Computer Vision & Data Science**
+ 💡 Exploring **TensorFlow, LLMs,AI, Computer Vision & Data Science**
 
-- 📫 How to reach me **ashanrulz555@gmail.com**
+📫 How to reach me **ashanrulz555@gmail.com**
 
-- ⚡ Fun fact **I started learning React Native just to build one app… now I’ve built two! 📱🚀**
+ ⚡ Fun fact **I started learning React Native just to build one app… now I’ve built two! 📱🚀**
 
 </div>
 
@@ -102,13 +102,21 @@
 
 
 
+<!-- 🐍 GitHub Contribution Snake Animation -->
+
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashanchinthana/ashanchinthana/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashanchinthana/ashanchinthana/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashanchinthana/ashanchinthana/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashanchinthana/ashanchinthana/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashanchinthana/ashanchinthana/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ashanchinthana/ashanchinthana/output/github-snake.svg" />
   </picture>
 </div>
+
+<!-- 🌊 Optional Animated GIF -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ashanchinthana/ashanchinthana/output/ocean.gif" alt="Snake animation in ocean theme" />
+</div>
+
 
 
 
