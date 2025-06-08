@@ -61,9 +61,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-<a href="https://linkedin.com/in/ashan chinthna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashan chinthna" height="30" width="40" /></a>
-<a href="https://fb.com/ashan chinthna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashan chinthna" height="30" width="40" /></a>
-<a href="https://instagram.com/_ashan_c_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ashan_c_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashan-chinthna-1136a7227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashan chinthna" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100078357141988" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashan chinthna" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_ashan_c_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ashan_c_" height="30" width="40" /></a>
 </div>
 
 
