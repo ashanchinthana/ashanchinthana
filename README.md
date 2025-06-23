@@ -21,7 +21,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashanchinthana&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/ashanchinthana?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Mobile%20Dev-brightgreen?style=for-the-badge" alt="Focus" />
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20Mobile%20Dev%20%26%20Full--Stack%20Dev-brightgreen?style=for-the-badge" alt="Focus" />
+
 </p>
 
 
