@@ -1,4 +1,4 @@
-# Hi there! I'm Ashan Chinthana 👋
+# Hi there! I'm Ashan Chinthana   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
 <div align="center">
   
