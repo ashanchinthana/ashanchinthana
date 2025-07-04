@@ -103,13 +103,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashanchinthana&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
 </div>
 
-## 📈 Profile Metrics
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashanchinthana&label=Profile%20Views&color=00C851&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/ashanchinthana?label=Followers&style=for-the-badge&color=00C851&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full--Stack%20Development-00C851?style=for-the-badge&logo=target" alt="Focus"/>
-</div>
 
 ## 🤝 Let's Connect!
 
