@@ -1,12 +1,16 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+</div>
+
+
+
 # Hi there! I'm Ashan Chinthana <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="680" height="300" alt="Coding Animation" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient" />
-</div>
+
 
 
 
@@ -69,10 +73,6 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashanchinthana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C851&icon_color=00C851&text_color=FFFFFF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashanchinthana&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C851&text_color=FFFFFF"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashanchinthana&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C851&ring=00C851&fire=00C851&currStreakLabel=00C851" alt="GitHub Streak"/>
 </div>
 
 ## 🏆 GitHub Trophies
