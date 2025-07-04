@@ -2,9 +2,7 @@
 # Hi there! I'm Ashan Chinthana   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 <div align="center">
   
-</div>
 
-<div align="center">
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="680" height="300" alt="Coding Animation" />
 </div>
 # 📈 Profile Metrics
