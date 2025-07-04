@@ -1,21 +1,21 @@
+# Hi there! I'm Ashan Chinthana <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
-# Hi there! I'm Ashan Chinthana   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 <div align="center">
-  
-
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="680" height="300" alt="Coding Animation" />
 </div>
-# 📈 Profile Metrics
+
+## 📈 Profile Metrics
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashanchinthana&label=Profile%20Views&color=F85D7F&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/ashanchinthana?label=Followers&style=for-the-badge&color=F85D7F&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full--Stack%20Development-F85D7F?style=for-the-badge&logo=target" alt="Focus"/>
+  <img src="https://komarev.com/ghpvc/?username=ashanchinthana&label=Profile%20Views&color=00C851&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/ashanchinthana?label=Followers&style=for-the-badge&color=00C851&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full--Stack%20Development-00C851?style=for-the-badge&logo=target" alt="Focus"/>
 </div>
-# 🎯 About Me
+
+## 🎯 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Native+Specialist;UI%2FUX+Design+Enthusiast;AI+Integration+Expert;Computer+Science+Student" alt="About Me Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C851&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Native+Specialist;UI%2FUX+Design+Enthusiast;AI+Integration+Expert;Computer+Science+Student" alt="About Me Typing" />
 </div>
 
 - 🔭 **Currently Working On:** Advanced Chatbot with AI Integration
@@ -63,12 +63,12 @@
 ## 🔥 GitHub Stats & Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashanchinthana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashanchinthana&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashanchinthana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C851&icon_color=00C851&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashanchinthana&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C851&text_color=FFFFFF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashanchinthana&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashanchinthana&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C851&ring=00C851&fire=00C851&currStreakLabel=00C851" alt="GitHub Streak"/>
 </div>
 
 ## 🏆 GitHub Trophies
@@ -79,7 +79,7 @@
 ## 📊 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashanchinthana&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashanchinthana&bg_color=0D1117&color=00C851&line=00C851&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph"/>
 </div>
 
 ## 🎨 Profile Summary Cards
@@ -98,7 +98,13 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashanchinthana&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
 </div>
 
+## 📈 Profile Metrics
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashanchinthana&label=Profile%20Views&color=00C851&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/ashanchinthana?label=Followers&style=for-the-badge&color=00C851&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full--Stack%20Development-00C851?style=for-the-badge&logo=target" alt="Focus"/>
+</div>
 
 ## 🤝 Let's Connect!
 
@@ -117,7 +123,11 @@
   </a>
 </div>
 
+## 🎵 Currently Coding To
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=🎧+Lo-fi+Hip+Hop+Beats;🎵+Electronic+%26+Synthwave;🎶+Ambient+Programming+Music;🎸+Indie+Rock+%26+Alternative" alt="Music Typing"/>
+</div>
 
 ## 💭 Random Dev Quote
 
@@ -126,10 +136,9 @@
 </div>
 
 
-
----
-
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Always+learning%2C+always+growing+🚀" alt="Footer Typing"/>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Happy%20Coding!&fontSize=40&fontAlignY=65&animation=twinkling&fontColor=gradient" />
