@@ -4,6 +4,10 @@
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="680" height="300" alt="Coding Animation" />
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+</div>
+
 ## 📈 Profile Metrics
 
 <div align="center">
@@ -123,11 +127,7 @@
   </a>
 </div>
 
-## 🎵 Currently Coding To
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=🎧+Lo-fi+Hip+Hop+Beats;🎵+Electronic+%26+Synthwave;🎶+Ambient+Programming+Music;🎸+Indie+Rock+%26+Alternative" alt="Music Typing"/>
-</div>
 
 ## 💭 Random Dev Quote
 
@@ -136,9 +136,7 @@
 </div>
 
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Always+learning%2C+always+growing+🚀" alt="Footer Typing"/>
-</div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Happy%20Coding!&fontSize=40&fontAlignY=65&animation=twinkling&fontColor=gradient" />
