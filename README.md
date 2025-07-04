@@ -8,7 +8,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 </div>
 
-## 📈 Profile Metrics
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ashanchinthana&label=Profile%20Views&color=00C851&style=for-the-badge" alt="Profile Views"/>
