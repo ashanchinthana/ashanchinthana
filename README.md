@@ -20,7 +20,8 @@
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full--Stack%20Development-00C851?style=for-the-badge&logo=target" alt="Focus"/>
 </div>
 
-## 🎯 About Me
+## 🎯 About Me <div align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C851&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Native+Specialist;UI%2FUX+Design+Enthusiast;AI+Integration+Expert;Computer+Science+Student" alt="About Me Typing" />
