@@ -7,14 +7,14 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="680" height="300" alt="Coding Animation" />
 </div>
-## 📈 Profile Metrics
+# 📈 Profile Metrics
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ashanchinthana&label=Profile%20Views&color=F85D7F&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/ashanchinthana?label=Followers&style=for-the-badge&color=F85D7F&logo=github" alt="Followers"/>
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full--Stack%20Development-F85D7F?style=for-the-badge&logo=target" alt="Focus"/>
 </div>
-## 🎯 About Me
+# 🎯 About Me
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Native+Specialist;UI%2FUX+Design+Enthusiast;AI+Integration+Expert;Computer+Science+Student" alt="About Me Typing" />
